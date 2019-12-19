@@ -4,7 +4,7 @@
 
 proc indexArticles*() = 
   var articles = Article.getMany(limit, offset)
-  renderTemplate("articles/index.html", articles) #
+  render("articles/index.html", articles) #
 
 
 proc postArticle*() = 
