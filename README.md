@@ -24,7 +24,7 @@ If you want to contact me you can find me [here](https://gitter.im/nim-lang/Nim)
   
 ## Application Structure
 
-![nimux-tree](https://user-images.githubusercontent.com/22755228/71218035-b133ff80-22c8-11ea-943b-50689ea54481.png)
+<img src="https://user-images.githubusercontent.com/22755228/71218035-b133ff80-22c8-11ea-943b-50689ea54481.png" width="90%">
 
 
 ## Roadmap  
