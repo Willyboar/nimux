@@ -1,4 +1,4 @@
-# Nimux  
+![Nimux copy](https://user-images.githubusercontent.com/22755228/71190264-ec184200-228c-11ea-92b1-ca2f2bedccce.png)  
   
 
 ### MVC Framework for Nim  
@@ -22,6 +22,9 @@ Also, I intend to move this under a new organization if a lot of people saw an i
 If you want to contact me you can find me on nim gitter channel and or if you want to propose something you can open an issue.  
   
   
+## Application
+
+![nimux](https://user-images.githubusercontent.com/22755228/71201596-15dc6380-22a3-11ea-8634-17f911237711.png)
 
 ## Roadmap  
   
