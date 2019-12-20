@@ -30,7 +30,9 @@ If you want to contact me you can find me [here](https://gitter.im/nim-lang/Nim)
 ## Roadmap  
   
 
-- [ ] Create a basic CRUD app (maybe a blog) in the "/examples" directory.  
+- [X] Create a basic CRUD app (maybe a blog) in the "/examples" directory.
+
+- [ ] Create the cli app to create app, scaffolds, migrate files and execute them.  
   
 ## License  
   
